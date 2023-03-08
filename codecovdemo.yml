@@ -18,3 +18,5 @@ jobs:
           run:  xcodebuild test -project TallestTowers.xcodeproj -scheme TallestTowers -destination 'platform=iOS Simulator,name=iPhone 11,OS=14.3' build test
       - name: Upload coverage reports to Codecov
           uses: codecov/codecov-action@v3
+      - name: Swift Coverage Report
+          uses: maxep/spm-lcov-action@0.3.1
