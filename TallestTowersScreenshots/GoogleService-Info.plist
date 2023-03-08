@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>958073463822-lvnmgmloi1g2c4tp9cr8jpf48ool9uev.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.958073463822-lvnmgmloi1g2c4tp9cr8jpf48ool9uev</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_ez0dloQD2RfhwMa5oWwpGhr2UOCtS7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958073463822</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.semaphoreci.TallestTowersqq</string>
+	<key>PROJECT_ID</key>
+	<string>devopss-aaebb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devopss-aaebb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958073463822:ios:c59786b0855c0887e8885f</string>
+</dict>
+</plist>
